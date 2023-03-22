@@ -1,0 +1,31 @@
+<header>
+<nav>
+<button hamburger>
+<a>
+<img alto></a>
+<a>For Providers
+<a>Sign In
+</nav>
+</header>
+
+
+<main>
+
+<div>
+<h1>The neighborhood pharmacy that comes to you.
+<p>We're your #1 rated pharmacy with free same-day delivery and extraordinary care.
+<a>Transfer in seconds
+<img>
+</div>
+
+<div>
+<h2>Getting started is easy
+<div>
+
+
+</div>
+
+
+</main>
+
+<footer>
